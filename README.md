@@ -42,6 +42,18 @@ Display manual page for a given command. This command is used to display informa
 Print the content of a file to the screen.
 ```
 
+### head
+
+```
+Prints the first 10 lines of a file.
+```
+
+### tail
+
+```
+Prints the last 10 lines of a file.
+```
+
 ### touch
 
 ```
@@ -64,4 +76,16 @@ Create a directory.
 
 ```
 List all current processes.
+```
+
+### clear
+
+```
+Clear the terminal screen
+```
+
+### history
+
+```
+Used to view a list of commands which the user has executed.
 ```
