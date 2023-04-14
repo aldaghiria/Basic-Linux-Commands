@@ -1,5 +1,7 @@
 # Basic Linux Commands
 
+## The list of basic linux commands below will help you become familiar with the linux command line.
+
 ### ls
 
 ```
@@ -63,7 +65,7 @@ Create an empty file.
 ### rm
 
 ```
-Remove a file or a directory 
+Remove a file or a directory
 ```
 
 ### mkdir
