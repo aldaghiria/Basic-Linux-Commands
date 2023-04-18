@@ -91,3 +91,21 @@ Clear the terminal screen
 ```
 Used to view a list of commands which the user has executed.
 ```
+
+### alias
+
+```
+Allows you you to create a shortcut name for a command.
+```
+
+### find
+
+```
+Search for a file within a directory. This command searches for the file in the file system.
+```
+
+### locate
+
+```
+Just like the find command, the locate command helps you find a file, but searches in a database, not the file system.
+```
